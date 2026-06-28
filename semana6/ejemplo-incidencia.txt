@@ -1,0 +1,5 @@
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "recolección de basuras",
+  "descripcion": "la comunidad reporta que la basura de la calle 4 no ha sido recogida en una semana."
+}

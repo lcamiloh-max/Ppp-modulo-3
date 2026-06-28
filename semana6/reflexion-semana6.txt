@@ -1,0 +1,11 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+
+Cuando los ciudadanos pueden enviar información de forma estructurada a una plataforma, dejan de ser simples espectadores de los problemas de su entorno 
+para convertirse en fuentes activas de datos que pueden transformar la realidad de su comunidad.
+La información estructurada significa que cada reporte llega con los datos necesarios: qué ocurrió, dónde, cuándo y quién lo reporta, lo que evita la confusión que generan los mensajes informales y permite actuar con mayor rapidez y precisión.
+Sin esa estructura, las plataformas reciben ruido: mensajes incompletos, duplicados o contradictorios que son difíciles de procesar, y eso termina inutilizando incluso la mejor tecnología disponible.
+Además, cuando los datos llegan organizados, es posible analizarlos, cruzarlos con otra información y detectar patrones que a simple vista serían invisibles, como zonas que concentran más problemas o momentos del día con mayor incidencia de ciertos eventos.
+Esto también le da credibilidad a la participación ciudadana, porque un reporte bien estructurado es más fácil de verificar y de presentar ante autoridades o medios que un mensaje de voz o un texto sin contexto claro.
+La estructura además protege a los ciudadanos, porque permite definir qué datos son realmente necesarios y evitar que se recopile información sensible de forma innecesaria o irresponsable.
+Para comunidades que históricamente han sido ignoradas, tener una plataforma que reciba su información de manera organizada es una forma de ser escuchadas con la misma seriedad con que se escucha a instituciones o empresas.
+En última instancia, la información ciudadana estructurada no es un detalle técnico: es la base para construir plataformas que realmente sirvan a las personas y no solo a quienes tienen acceso a sistemas más sofisticados.
