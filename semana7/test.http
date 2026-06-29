@@ -1,0 +1,19 @@
+POST http://localhost:3000/reportes
+content-type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+### prueba ruta GET
+GET http://localhost:3000/reportes
+
+### segundo reporte
+POST http://localhost:3000/reportes
+content-type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}

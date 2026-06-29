@@ -1,0 +1,10 @@
+Poder registrar y consultar reportes en una plataforma tecnológica le da a una comunidad algo que históricamente ha sido difícil de sostener: memoria colectiva organizada sobre los problemas que la afectan.
+Sin un sistema de registro, los incidentes se olvidan, se distorsionan o quedan atrapados en conversaciones privadas que nadie más puede consultar, lo que impide construir un panorama real de lo que ocurre en el territorio.
+Cuando existe un registro accesible, los propios ciudadanos pueden ver si un problema que consideraban aislado en realidad se repite con frecuencia, y eso cambia completamente la forma en que se exige atención o solución a las autoridades.
+La consulta de reportes también evita el trabajo duplicado, porque antes de levantar una nueva alerta, cualquier persona puede verificar si alguien ya reportó lo mismo y cuál fue el estado de respuesta.
+Además, tener un historial documentado fortalece la posición de la comunidad frente a instituciones públicas o privadas, porque ya no se trata de una queja verbal sino de evidencia concreta, fechada y verificable.
+Una plataforma de este tipo también genera confianza interna, porque los miembros de la comunidad pueden ver que sus reportes no desaparecen en el vacío sino que quedan registrados y son visibles para todos.
+Para líderes comunitarios o gestores locales, poder consultar el historial de incidencias es una herramienta de planeación invaluable que les permite priorizar recursos y tomar decisiones basadas en datos reales y no en suposiciones.
+En definitiva, registrar y consultar incidencias no es solo una función técnica:
+ es un acto de organización ciudadana que transforma experiencias individuales en conocimiento colectivo con capacidad real de generar camb
+

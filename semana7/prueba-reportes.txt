@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 391
+ETag: W/"187-PIIEhHB0+t+GN4mKQ5UVpG0cqoI"
+Date: Mon, 29 Jun 2026 00:30:09 GMT
+Connection: close
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+]
